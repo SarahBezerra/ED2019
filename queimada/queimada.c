@@ -3,7 +3,7 @@
 const int TREE = '#';
 const int EMPTY = '.';
 const int FIRE = 'o';
-
+const int a = 0;
 void mostrar_matriz(int numL, int numC, char matriz[numL][numC]){
 
     int i = 0;
